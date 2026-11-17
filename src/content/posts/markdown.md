@@ -1,8 +1,8 @@
 ---
 title: bias and var
-published: jack
+published: 2026-11-17
 description: 关于偏差与方差的tradeoff
-tags: 
+tags: []
 category: 
 draft: false
 ---
